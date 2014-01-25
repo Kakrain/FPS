@@ -1,0 +1,62 @@
+﻿Compilación iniciada a las 1/25/2014 4:53:03 PM.
+     1>Proyecto "C:\Users\Realidad1\Documents\Visual Studio 2013\Projects\VRPN_Head_Stereo\VRPN_Head_Stereo\VRPN_Head_Stereo.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\Realidad1\Desktop\vrpn /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(79): warning C4305: 'inicializando' : truncamiento de 'double' a 'float'
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(106): warning C4305: 'inicializando' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(107): warning C4305: 'inicializando' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(108): warning C4305: 'inicializando' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(109): warning C4305: 'inicializando' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(133): warning C4305: 'inicializando' : truncamiento de 'double' a 'GLfloat'
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(137): warning C4305: 'inicializando' : truncamiento de 'double' a 'float'
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(215): warning C4244: '=' : conversión de 'const vrpn_float64' a 'float'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(216): warning C4244: '=' : conversión de 'const vrpn_float64' a 'float'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(217): warning C4244: '=' : conversión de 'const vrpn_float64' a 'float'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(227): warning C4244: '=' : conversión de 'const vrpn_float64' a 'float'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(228): warning C4244: '=' : conversión de 'const vrpn_float64' a 'float'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(229): warning C4244: '=' : conversión de 'const vrpn_float64' a 'float'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(232): warning C4244: '=' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(233): warning C4244: '=' : conversión de 'const vrpn_float64' a 'float'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(234): warning C4244: '=' : conversión de 'const vrpn_float64' a 'float'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(235): warning C4244: '=' : conversión de 'const vrpn_float64' a 'float'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(344): warning C4244: 'argumento' : conversión de 'int' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(345): warning C4244: 'argumento' : conversión de 'int' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(346): warning C4244: 'argumento' : conversión de 'int' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(347): warning C4244: 'argumento' : conversión de 'int' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(449): warning C4244: 'inicializando' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(517): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(518): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(556): warning C4244: 'inicializando' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(557): warning C4244: 'inicializando' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(910): warning C4244: 'argumento' : conversión de 'GLdouble' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(915): warning C4244: 'argumento' : conversión de 'GLdouble' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(967): warning C4244: '=' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(968): warning C4244: '=' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(986): warning C4244: 'argumento' : conversión de 'int' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(988): warning C4244: 'argumento' : conversión de 'int' a 'GLfloat'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(1064): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(1065): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(1067): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(1068): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(1069): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(1070): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(1078): warning C4101: 'i' : variable local sin referencia
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(1170): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(1171): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(1322): warning C4244: '+=' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(1323): warning C4244: '+=' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(1330): warning C4244: '-=' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(1331): warning C4244: '-=' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(1346): warning C4244: 'inicializando' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(1347): warning C4244: 'inicializando' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(1348): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\users\realidad1\documents\visual studio 2013\projects\vrpn_head_stereo\vrpn_head_stereo\main.cpp(1349): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Realidad1\Documents\Visual Studio 2013\Projects\VRPN_Head_Stereo\Debug\VRPN_Head_Stereo.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\Realidad1\Desktop\vrpn\pc_win32\Debug vrpn.lib freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Realidad1\Documents\Visual Studio 2013\Projects\VRPN_Head_Stereo\Debug\VRPN_Head_Stereo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Realidad1\Documents\Visual Studio 2013\Projects\VRPN_Head_Stereo\Debug\VRPN_Head_Stereo.lib" /MACHINE:X86 Debug\main.obj
+         VRPN_Head_Stereo.vcxproj -> C:\Users\Realidad1\Documents\Visual Studio 2013\Projects\VRPN_Head_Stereo\Debug\VRPN_Head_Stereo.exe
+     1>Compilación del proyecto terminada "C:\Users\Realidad1\Documents\Visual Studio 2013\Projects\VRPN_Head_Stereo\VRPN_Head_Stereo\VRPN_Head_Stereo.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.82
